@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+    height: 10rem;
+    background-color: aquamarine;
+}
+
+header h1{
+    position: relative;
+    top: 20px;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: oblique;
+    text-shadow: 1px 2px 1px #b4b4b4;
+}
+
+header h2{
+    position: relative;
+    top: 30px;
+    font-size: 35px;
+    font-weight: 400;
+    text-shadow: 1px 2px 1px #b4b4b4;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.child{
+    width: 60%;
+    height: 250px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: hsl(40, 200%, 75%);
+    border-radius: 20px;
+}
+
+.child h1{
+    position: relative;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.child h2{
+    display: block;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.child input{
+    position: relative;
+    width: 80%;
+    height: 3rem;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 40%;
+}
+
+.display button{
+    padding: 10px 20px;
+    font-size: large;
+    font-style: italic;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 3px 3px 4px grey;
+}
+
+button:active{
+    box-shadow: 2px 2px 3px gray;
+    transform: translateY(4px);
+}
+
+/*Design in create element in javscript*/
+.outcome{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px;
+}
+
+#result{
+    display: block;
+    text-align: center;
+    justify-content: space-between;
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 10px;
+    border: none;
+    background-color: #787878;
+    box-shadow: 4px 4px 5px #b4b4b4;
+}
+
+.task-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    background-color: #b4b4b4;
+    width: 60%;
+    height: 50px;
+    margin: 20px 0px;
+    padding: 10px 20px;
+    left: 150px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px #f0f0f0;
+}
+
+.checkbox{
+    width: 20px;
+    height: 20px;
+    
+}
+
+
+.task_text{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 400;
+    text-shadow: 1px 1px gray;
+}
+
+
+.Delete{
+    padding: 5px 10px;
+    font-style: italic;
+    border-radius: 5px;
+    border: none;
+    font-weight: 400;
+    box-shadow: 2px 2px 4px antiquewhite;
+    background-color: red;
+}
+
+.Delete:active{
+    box-shadow: 1px 1px 3px antiquewhite;
+    transform: translateY(3px);
+}
+
+
