@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #193549;
+    color: azure;
+    font-weight: 100;
+    font-size: 30px;
+    text-align: center;
+}
+
+.controls{
+    margin-bottom: 50px;
+}
+
+:root{
+    --base: red;
+    --spacing: 60px;
+    --blur: 0px 
+}
+
+img{
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+}
+
+
+h1{
+    color: var(--base);
+}
