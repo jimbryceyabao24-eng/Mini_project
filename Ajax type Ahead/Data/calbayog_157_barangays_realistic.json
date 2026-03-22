@@ -1,0 +1,1415 @@
+[
+  {
+    "brgy": "Barangay 73",
+    "growthFrom": "-6.79%",
+    "latitude": 12.085,
+    "longitude": 124.6023,
+    "population": 1200,
+    "rank": 1,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 80",
+    "growthFrom": "3.02%",
+    "latitude": 12.1087,
+    "longitude": 124.5365,
+    "population": 1194,
+    "rank": 2,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Guba",
+    "growthFrom": "1.16%",
+    "latitude": 12.2537,
+    "longitude": 124.5858,
+    "population": 1172,
+    "rank": 3,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Trinidad",
+    "growthFrom": "2.35%",
+    "latitude": 12.2036,
+    "longitude": 124.6325,
+    "population": 1166,
+    "rank": 4,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 58",
+    "growthFrom": "-0.19%",
+    "latitude": 12.2747,
+    "longitude": 124.6057,
+    "population": 1157,
+    "rank": 5,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 105",
+    "growthFrom": "7.85%",
+    "latitude": 12.1359,
+    "longitude": 124.6083,
+    "population": 1147,
+    "rank": 6,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 41",
+    "growthFrom": "-1.12%",
+    "latitude": 12.2603,
+    "longitude": 124.6176,
+    "population": 1144,
+    "rank": 7,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 65",
+    "growthFrom": "1.66%",
+    "latitude": 12.0599,
+    "longitude": 124.5345,
+    "population": 1132,
+    "rank": 8,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 37",
+    "growthFrom": "7.1%",
+    "latitude": 12.3269,
+    "longitude": 124.5093,
+    "population": 1115,
+    "rank": 9,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 155",
+    "growthFrom": "7.56%",
+    "latitude": 12.1369,
+    "longitude": 124.4699,
+    "population": 1114,
+    "rank": 10,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 70",
+    "growthFrom": "-1.42%",
+    "latitude": 12.1787,
+    "longitude": 124.5207,
+    "population": 1109,
+    "rank": 11,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 40",
+    "growthFrom": "-0.6%",
+    "latitude": 12.1916,
+    "longitude": 124.6658,
+    "population": 1108,
+    "rank": 12,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 108",
+    "growthFrom": "-6.86%",
+    "latitude": 12.1253,
+    "longitude": 124.7166,
+    "population": 1105,
+    "rank": 13,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 90",
+    "growthFrom": "6.18%",
+    "latitude": 12.111,
+    "longitude": 124.5894,
+    "population": 1091,
+    "rank": 14,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 76",
+    "growthFrom": "6.84%",
+    "latitude": 12.1933,
+    "longitude": 124.5078,
+    "population": 1083,
+    "rank": 15,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 134",
+    "growthFrom": "5.22%",
+    "latitude": 12.1216,
+    "longitude": 124.544,
+    "population": 1081,
+    "rank": 16,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 151",
+    "growthFrom": "-1.86%",
+    "latitude": 12.0795,
+    "longitude": 124.534,
+    "population": 1078,
+    "rank": 17,
+    "state": "Samar"
+  },
+  {
+    "brgy": "La Paz",
+    "growthFrom": "-2.86%",
+    "latitude": 12.1062,
+    "longitude": 124.5452,
+    "population": 1073,
+    "rank": 18,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Bugtong",
+    "growthFrom": "-7.14%",
+    "latitude": 12.0597,
+    "longitude": 124.4527,
+    "population": 1073,
+    "rank": 19,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 117",
+    "growthFrom": "-5.7%",
+    "latitude": 12.1021,
+    "longitude": 124.6429,
+    "population": 1064,
+    "rank": 20,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 103",
+    "growthFrom": "-1.01%",
+    "latitude": 12.1116,
+    "longitude": 124.545,
+    "population": 1050,
+    "rank": 21,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 99",
+    "growthFrom": "6.15%",
+    "latitude": 12.0717,
+    "longitude": 124.6319,
+    "population": 1041,
+    "rank": 22,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 59",
+    "growthFrom": "-4.58%",
+    "latitude": 12.1008,
+    "longitude": 124.7401,
+    "population": 1037,
+    "rank": 23,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Central",
+    "growthFrom": "6.16%",
+    "latitude": 12.1882,
+    "longitude": 124.5808,
+    "population": 1031,
+    "rank": 24,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 72",
+    "growthFrom": "-6.34%",
+    "latitude": 12.2379,
+    "longitude": 124.7336,
+    "population": 1006,
+    "rank": 25,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 56",
+    "growthFrom": "6.73%",
+    "latitude": 12.1349,
+    "longitude": 124.4952,
+    "population": 1004,
+    "rank": 26,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 154",
+    "growthFrom": "-2.66%",
+    "latitude": 12.0653,
+    "longitude": 124.5794,
+    "population": 987,
+    "rank": 27,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 66",
+    "growthFrom": "-3.21%",
+    "latitude": 12.1246,
+    "longitude": 124.6964,
+    "population": 984,
+    "rank": 28,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Carmen",
+    "growthFrom": "-6.01%",
+    "latitude": 12.0942,
+    "longitude": 124.7461,
+    "population": 968,
+    "rank": 29,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Basud",
+    "growthFrom": "2.93%",
+    "latitude": 12.2413,
+    "longitude": 124.749,
+    "population": 966,
+    "rank": 30,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 52",
+    "growthFrom": "6.27%",
+    "latitude": 12.2628,
+    "longitude": 124.5194,
+    "population": 966,
+    "rank": 31,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 92",
+    "growthFrom": "0.63%",
+    "latitude": 12.3109,
+    "longitude": 124.5937,
+    "population": 965,
+    "rank": 32,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 111",
+    "growthFrom": "3.15%",
+    "latitude": 12.1455,
+    "longitude": 124.4928,
+    "population": 963,
+    "rank": 33,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 78",
+    "growthFrom": "6.51%",
+    "latitude": 12.3384,
+    "longitude": 124.4823,
+    "population": 961,
+    "rank": 34,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 143",
+    "growthFrom": "0.05%",
+    "latitude": 12.3151,
+    "longitude": 124.5301,
+    "population": 959,
+    "rank": 35,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 127",
+    "growthFrom": "7.4%",
+    "latitude": 12.1368,
+    "longitude": 124.71,
+    "population": 932,
+    "rank": 36,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 147",
+    "growthFrom": "5.01%",
+    "latitude": 12.2957,
+    "longitude": 124.5398,
+    "population": 929,
+    "rank": 37,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 47",
+    "growthFrom": "-6.72%",
+    "latitude": 12.0855,
+    "longitude": 124.6614,
+    "population": 920,
+    "rank": 38,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 156",
+    "growthFrom": "-3.8%",
+    "latitude": 12.1026,
+    "longitude": 124.6089,
+    "population": 916,
+    "rank": 39,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Malajog",
+    "growthFrom": "-6.77%",
+    "latitude": 12.134,
+    "longitude": 124.603,
+    "population": 911,
+    "rank": 40,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 96",
+    "growthFrom": "7.25%",
+    "latitude": 12.0962,
+    "longitude": 124.7332,
+    "population": 910,
+    "rank": 41,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 64",
+    "growthFrom": "2.16%",
+    "latitude": 12.1144,
+    "longitude": 124.5382,
+    "population": 901,
+    "rank": 42,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Mabini",
+    "growthFrom": "-2.74%",
+    "latitude": 12.2478,
+    "longitude": 124.6239,
+    "population": 861,
+    "rank": 43,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Tinambacan",
+    "growthFrom": "3.51%",
+    "latitude": 12.1711,
+    "longitude": 124.7377,
+    "population": 860,
+    "rank": 44,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 49",
+    "growthFrom": "-2.5%",
+    "latitude": 12.1095,
+    "longitude": 124.4898,
+    "population": 859,
+    "rank": 45,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Obrero",
+    "growthFrom": "6.15%",
+    "latitude": 12.3496,
+    "longitude": 124.6246,
+    "population": 840,
+    "rank": 46,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 62",
+    "growthFrom": "6.33%",
+    "latitude": 12.3104,
+    "longitude": 124.747,
+    "population": 832,
+    "rank": 47,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Sigo",
+    "growthFrom": "-7.43%",
+    "latitude": 12.2244,
+    "longitude": 124.5827,
+    "population": 829,
+    "rank": 48,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 43",
+    "growthFrom": "-6.04%",
+    "latitude": 12.1409,
+    "longitude": 124.7182,
+    "population": 828,
+    "rank": 49,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 142",
+    "growthFrom": "7.74%",
+    "latitude": 12.225,
+    "longitude": 124.6762,
+    "population": 822,
+    "rank": 50,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 51",
+    "growthFrom": "0.12%",
+    "latitude": 12.2621,
+    "longitude": 124.603,
+    "population": 821,
+    "rank": 51,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 115",
+    "growthFrom": "6.98%",
+    "latitude": 12.0764,
+    "longitude": 124.628,
+    "population": 819,
+    "rank": 52,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 124",
+    "growthFrom": "-2.93%",
+    "latitude": 12.0847,
+    "longitude": 124.7427,
+    "population": 810,
+    "rank": 53,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 79",
+    "growthFrom": "1.64%",
+    "latitude": 12.3125,
+    "longitude": 124.4639,
+    "population": 809,
+    "rank": 54,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 140",
+    "growthFrom": "3.81%",
+    "latitude": 12.1856,
+    "longitude": 124.6133,
+    "population": 809,
+    "rank": 55,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 138",
+    "growthFrom": "-2.68%",
+    "latitude": 12.1413,
+    "longitude": 124.725,
+    "population": 800,
+    "rank": 56,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 81",
+    "growthFrom": "5.7%",
+    "latitude": 12.238,
+    "longitude": 124.5795,
+    "population": 799,
+    "rank": 57,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Bagacay",
+    "growthFrom": "1.96%",
+    "latitude": 12.2728,
+    "longitude": 124.7095,
+    "population": 789,
+    "rank": 58,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 137",
+    "growthFrom": "-0.59%",
+    "latitude": 12.1837,
+    "longitude": 124.5826,
+    "population": 789,
+    "rank": 59,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 42",
+    "growthFrom": "-2.83%",
+    "latitude": 12.1129,
+    "longitude": 124.5113,
+    "population": 784,
+    "rank": 60,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 95",
+    "growthFrom": "2.96%",
+    "latitude": 12.2907,
+    "longitude": 124.5696,
+    "population": 754,
+    "rank": 61,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 97",
+    "growthFrom": "-6.31%",
+    "latitude": 12.0922,
+    "longitude": 124.6504,
+    "population": 752,
+    "rank": 62,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 153",
+    "growthFrom": "2.55%",
+    "latitude": 12.1461,
+    "longitude": 124.4614,
+    "population": 720,
+    "rank": 63,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Dinawacan",
+    "growthFrom": "2.29%",
+    "latitude": 12.0823,
+    "longitude": 124.6813,
+    "population": 708,
+    "rank": 64,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 141",
+    "growthFrom": "-2.63%",
+    "latitude": 12.1336,
+    "longitude": 124.5052,
+    "population": 707,
+    "rank": 65,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 131",
+    "growthFrom": "7.1%",
+    "latitude": 12.3374,
+    "longitude": 124.6518,
+    "population": 703,
+    "rank": 66,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 119",
+    "growthFrom": "3.71%",
+    "latitude": 12.3465,
+    "longitude": 124.7332,
+    "population": 695,
+    "rank": 67,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 85",
+    "growthFrom": "7.54%",
+    "latitude": 12.1914,
+    "longitude": 124.6778,
+    "population": 693,
+    "rank": 68,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Balud",
+    "growthFrom": "-4.81%",
+    "latitude": 12.0527,
+    "longitude": 124.6717,
+    "population": 689,
+    "rank": 69,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 149",
+    "growthFrom": "7.88%",
+    "latitude": 12.3335,
+    "longitude": 124.6065,
+    "population": 685,
+    "rank": 70,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 135",
+    "growthFrom": "-7.2%",
+    "latitude": 12.0804,
+    "longitude": 124.4974,
+    "population": 662,
+    "rank": 71,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 133",
+    "growthFrom": "5.09%",
+    "latitude": 12.0805,
+    "longitude": 124.5861,
+    "population": 652,
+    "rank": 72,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Villahermosa",
+    "growthFrom": "1.49%",
+    "latitude": 12.2451,
+    "longitude": 124.635,
+    "population": 651,
+    "rank": 73,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 98",
+    "growthFrom": "-3.52%",
+    "latitude": 12.1765,
+    "longitude": 124.6543,
+    "population": 643,
+    "rank": 74,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 48",
+    "growthFrom": "4.71%",
+    "latitude": 12.1982,
+    "longitude": 124.4533,
+    "population": 642,
+    "rank": 75,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Capoocan",
+    "growthFrom": "-7.45%",
+    "latitude": 12.2972,
+    "longitude": 124.5113,
+    "population": 640,
+    "rank": 76,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 93",
+    "growthFrom": "4.31%",
+    "latitude": 12.291,
+    "longitude": 124.7285,
+    "population": 640,
+    "rank": 77,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 74",
+    "growthFrom": "-2.6%",
+    "latitude": 12.3113,
+    "longitude": 124.6935,
+    "population": 633,
+    "rank": 78,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 120",
+    "growthFrom": "-3.15%",
+    "latitude": 12.068,
+    "longitude": 124.6011,
+    "population": 630,
+    "rank": 79,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 123",
+    "growthFrom": "7.7%",
+    "latitude": 12.2895,
+    "longitude": 124.6742,
+    "population": 623,
+    "rank": 80,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 60",
+    "growthFrom": "4.45%",
+    "latitude": 12.3037,
+    "longitude": 124.6045,
+    "population": 593,
+    "rank": 81,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Rawis",
+    "growthFrom": "-6.32%",
+    "latitude": 12.2322,
+    "longitude": 124.5108,
+    "population": 586,
+    "rank": 82,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 148",
+    "growthFrom": "-7.98%",
+    "latitude": 12.3093,
+    "longitude": 124.7355,
+    "population": 584,
+    "rank": 83,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Bayo",
+    "growthFrom": "0.23%",
+    "latitude": 12.1235,
+    "longitude": 124.4731,
+    "population": 581,
+    "rank": 84,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 144",
+    "growthFrom": "6.45%",
+    "latitude": 12.2328,
+    "longitude": 124.6154,
+    "population": 570,
+    "rank": 85,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 136",
+    "growthFrom": "4.14%",
+    "latitude": 12.1699,
+    "longitude": 124.6473,
+    "population": 562,
+    "rank": 86,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 77",
+    "growthFrom": "6.34%",
+    "latitude": 12.1565,
+    "longitude": 124.6553,
+    "population": 557,
+    "rank": 87,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 75",
+    "growthFrom": "-0.76%",
+    "latitude": 12.1426,
+    "longitude": 124.5123,
+    "population": 556,
+    "rank": 88,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 55",
+    "growthFrom": "5.61%",
+    "latitude": 12.3393,
+    "longitude": 124.6704,
+    "population": 554,
+    "rank": 89,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 125",
+    "growthFrom": "6.64%",
+    "latitude": 12.3131,
+    "longitude": 124.5965,
+    "population": 553,
+    "rank": 90,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 83",
+    "growthFrom": "-4.64%",
+    "latitude": 12.1122,
+    "longitude": 124.5371,
+    "population": 551,
+    "rank": 91,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 50",
+    "growthFrom": "-2.54%",
+    "latitude": 12.145,
+    "longitude": 124.7437,
+    "population": 546,
+    "rank": 92,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 139",
+    "growthFrom": "-7.95%",
+    "latitude": 12.282,
+    "longitude": 124.5442,
+    "population": 529,
+    "rank": 93,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 36",
+    "growthFrom": "-6.15%",
+    "latitude": 12.2441,
+    "longitude": 124.5044,
+    "population": 527,
+    "rank": 94,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 84",
+    "growthFrom": "-5.78%",
+    "latitude": 12.094,
+    "longitude": 124.5238,
+    "population": 496,
+    "rank": 95,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 132",
+    "growthFrom": "-4.24%",
+    "latitude": 12.0596,
+    "longitude": 124.553,
+    "population": 494,
+    "rank": 96,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 126",
+    "growthFrom": "-2.59%",
+    "latitude": 12.279,
+    "longitude": 124.6156,
+    "population": 490,
+    "rank": 97,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 91",
+    "growthFrom": "-7.21%",
+    "latitude": 12.3353,
+    "longitude": 124.5212,
+    "population": 465,
+    "rank": 98,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 104",
+    "growthFrom": "-6.35%",
+    "latitude": 12.1055,
+    "longitude": 124.6544,
+    "population": 463,
+    "rank": 99,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Victory",
+    "growthFrom": "1.33%",
+    "latitude": 12.0823,
+    "longitude": 124.7261,
+    "population": 458,
+    "rank": 100,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 121",
+    "growthFrom": "7.25%",
+    "latitude": 12.0593,
+    "longitude": 124.7423,
+    "population": 453,
+    "rank": 101,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 61",
+    "growthFrom": "4.82%",
+    "latitude": 12.1816,
+    "longitude": 124.6278,
+    "population": 452,
+    "rank": 102,
+    "state": "Samar"
+  },
+  {
+    "brgy": "San Joaquin",
+    "growthFrom": "-1.36%",
+    "latitude": 12.068,
+    "longitude": 124.6873,
+    "population": 451,
+    "rank": 103,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 87",
+    "growthFrom": "-1.62%",
+    "latitude": 12.2727,
+    "longitude": 124.692,
+    "population": 450,
+    "rank": 104,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 45",
+    "growthFrom": "-7.74%",
+    "latitude": 12.0906,
+    "longitude": 124.5608,
+    "population": 445,
+    "rank": 105,
+    "state": "Samar"
+  },
+  {
+    "brgy": "San Antonio",
+    "growthFrom": "2.59%",
+    "latitude": 12.2832,
+    "longitude": 124.5862,
+    "population": 438,
+    "rank": 106,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 101",
+    "growthFrom": "5.84%",
+    "latitude": 12.1223,
+    "longitude": 124.4907,
+    "population": 431,
+    "rank": 107,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 54",
+    "growthFrom": "-0.77%",
+    "latitude": 12.1827,
+    "longitude": 124.6827,
+    "population": 425,
+    "rank": 108,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Hibabngan",
+    "growthFrom": "-1.99%",
+    "latitude": 12.228,
+    "longitude": 124.4734,
+    "population": 421,
+    "rank": 109,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 34",
+    "growthFrom": "-1.53%",
+    "latitude": 12.2232,
+    "longitude": 124.4567,
+    "population": 415,
+    "rank": 110,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 68",
+    "growthFrom": "1.23%",
+    "latitude": 12.2746,
+    "longitude": 124.7404,
+    "population": 413,
+    "rank": 111,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 69",
+    "growthFrom": "-4.19%",
+    "latitude": 12.3457,
+    "longitude": 124.658,
+    "population": 402,
+    "rank": 112,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 89",
+    "growthFrom": "0.8%",
+    "latitude": 12.1769,
+    "longitude": 124.5025,
+    "population": 401,
+    "rank": 113,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 118",
+    "growthFrom": "-3.26%",
+    "latitude": 12.2085,
+    "longitude": 124.5189,
+    "population": 401,
+    "rank": 114,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Osme\u00f1a",
+    "growthFrom": "-5.33%",
+    "latitude": 12.2691,
+    "longitude": 124.4876,
+    "population": 398,
+    "rank": 115,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 150",
+    "growthFrom": "-2.26%",
+    "latitude": 12.2819,
+    "longitude": 124.6285,
+    "population": 391,
+    "rank": 116,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Caybago",
+    "growthFrom": "4.16%",
+    "latitude": 12.0968,
+    "longitude": 124.5569,
+    "population": 387,
+    "rank": 117,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Santa Elena",
+    "growthFrom": "-6.71%",
+    "latitude": 12.0537,
+    "longitude": 124.4777,
+    "population": 377,
+    "rank": 118,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 94",
+    "growthFrom": "1.16%",
+    "latitude": 12.1754,
+    "longitude": 124.6316,
+    "population": 374,
+    "rank": 119,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 112",
+    "growthFrom": "0.89%",
+    "latitude": 12.2859,
+    "longitude": 124.6935,
+    "population": 352,
+    "rank": 120,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 35",
+    "growthFrom": "-7.32%",
+    "latitude": 12.2104,
+    "longitude": 124.5056,
+    "population": 328,
+    "rank": 121,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 116",
+    "growthFrom": "1.13%",
+    "latitude": 12.2641,
+    "longitude": 124.6042,
+    "population": 327,
+    "rank": 122,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 122",
+    "growthFrom": "5.94%",
+    "latitude": 12.2907,
+    "longitude": 124.4906,
+    "population": 325,
+    "rank": 123,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 53",
+    "growthFrom": "7.17%",
+    "latitude": 12.3114,
+    "longitude": 124.4527,
+    "population": 324,
+    "rank": 124,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 38",
+    "growthFrom": "-1.18%",
+    "latitude": 12.2825,
+    "longitude": 124.5922,
+    "population": 311,
+    "rank": 125,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 57",
+    "growthFrom": "5.53%",
+    "latitude": 12.2469,
+    "longitude": 124.5842,
+    "population": 307,
+    "rank": 126,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 128",
+    "growthFrom": "-0.95%",
+    "latitude": 12.1182,
+    "longitude": 124.4604,
+    "population": 305,
+    "rank": 127,
+    "state": "Samar"
+  },
+  {
+    "brgy": "San Policarpo",
+    "growthFrom": "0.61%",
+    "latitude": 12.1641,
+    "longitude": 124.584,
+    "population": 304,
+    "rank": 128,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 107",
+    "growthFrom": "0.23%",
+    "latitude": 12.1693,
+    "longitude": 124.4945,
+    "population": 297,
+    "rank": 129,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 67",
+    "growthFrom": "-3.96%",
+    "latitude": 12.3094,
+    "longitude": 124.7198,
+    "population": 289,
+    "rank": 130,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Ipil",
+    "growthFrom": "6.23%",
+    "latitude": 12.0857,
+    "longitude": 124.7186,
+    "population": 278,
+    "rank": 131,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 44",
+    "growthFrom": "-6.97%",
+    "latitude": 12.0766,
+    "longitude": 124.5328,
+    "population": 278,
+    "rank": 132,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Zaragosa",
+    "growthFrom": "-6.63%",
+    "latitude": 12.1211,
+    "longitude": 124.5875,
+    "population": 256,
+    "rank": 133,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 110",
+    "growthFrom": "-5.9%",
+    "latitude": 12.1124,
+    "longitude": 124.4559,
+    "population": 255,
+    "rank": 134,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 114",
+    "growthFrom": "-4.7%",
+    "latitude": 12.1617,
+    "longitude": 124.6748,
+    "population": 251,
+    "rank": 135,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 152",
+    "growthFrom": "-6.17%",
+    "latitude": 12.2796,
+    "longitude": 124.5405,
+    "population": 249,
+    "rank": 136,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 46",
+    "growthFrom": "-6.36%",
+    "latitude": 12.0945,
+    "longitude": 124.4853,
+    "population": 234,
+    "rank": 137,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 86",
+    "growthFrom": "-1.16%",
+    "latitude": 12.1358,
+    "longitude": 124.5811,
+    "population": 210,
+    "rank": 138,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 106",
+    "growthFrom": "3.0%",
+    "latitude": 12.1696,
+    "longitude": 124.6372,
+    "population": 208,
+    "rank": 139,
+    "state": "Samar"
+  },
+  {
+    "brgy": "San Jose",
+    "growthFrom": "2.46%",
+    "latitude": 12.2099,
+    "longitude": 124.5104,
+    "population": 207,
+    "rank": 140,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 82",
+    "growthFrom": "2.99%",
+    "latitude": 12.3016,
+    "longitude": 124.5199,
+    "population": 207,
+    "rank": 141,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Navarro",
+    "growthFrom": "-4.33%",
+    "latitude": 12.3242,
+    "longitude": 124.5439,
+    "population": 205,
+    "rank": 142,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 39",
+    "growthFrom": "4.82%",
+    "latitude": 12.2998,
+    "longitude": 124.6216,
+    "population": 194,
+    "rank": 143,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Naga",
+    "growthFrom": "5.8%",
+    "latitude": 12.3124,
+    "longitude": 124.5427,
+    "population": 188,
+    "rank": 144,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 130",
+    "growthFrom": "4.97%",
+    "latitude": 12.1013,
+    "longitude": 124.5828,
+    "population": 168,
+    "rank": 145,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 113",
+    "growthFrom": "7.94%",
+    "latitude": 12.2339,
+    "longitude": 124.5096,
+    "population": 163,
+    "rank": 146,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 63",
+    "growthFrom": "-6.07%",
+    "latitude": 12.1439,
+    "longitude": 124.5482,
+    "population": 150,
+    "rank": 147,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 109",
+    "growthFrom": "-3.61%",
+    "latitude": 12.0804,
+    "longitude": 124.7096,
+    "population": 147,
+    "rank": 148,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 71",
+    "growthFrom": "-5.85%",
+    "latitude": 12.2616,
+    "longitude": 124.5916,
+    "population": 138,
+    "rank": 149,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Palanas",
+    "growthFrom": "-6.42%",
+    "latitude": 12.1716,
+    "longitude": 124.5714,
+    "population": 123,
+    "rank": 150,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 102",
+    "growthFrom": "6.39%",
+    "latitude": 12.2334,
+    "longitude": 124.674,
+    "population": 123,
+    "rank": 151,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 129",
+    "growthFrom": "-3.61%",
+    "latitude": 12.2103,
+    "longitude": 124.5522,
+    "population": 115,
+    "rank": 152,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 145",
+    "growthFrom": "-3.88%",
+    "latitude": 12.2194,
+    "longitude": 124.6236,
+    "population": 113,
+    "rank": 153,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 88",
+    "growthFrom": "-6.37%",
+    "latitude": 12.3399,
+    "longitude": 124.5127,
+    "population": 101,
+    "rank": 154,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 157",
+    "growthFrom": "0.47%",
+    "latitude": 12.102,
+    "longitude": 124.5185,
+    "population": 100,
+    "rank": 155,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 100",
+    "growthFrom": "-7.66%",
+    "latitude": 12.2024,
+    "longitude": 124.7175,
+    "population": 97,
+    "rank": 156,
+    "state": "Samar"
+  },
+  {
+    "brgy": "Barangay 146",
+    "growthFrom": "-1.94%",
+    "latitude": 12.1531,
+    "longitude": 124.668,
+    "population": 75,
+    "rank": 157,
+    "state": "Samar"
+  }
+]
