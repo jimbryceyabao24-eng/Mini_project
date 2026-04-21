@@ -1,0 +1,80 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    background: linear-gradient(135deg, #ffc600, #ff9f00);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.app {
+    background: white;
+    width: 90%;
+    max-width: 700px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    margin: 0;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #444;
+    margin-bottom: 20px;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 18px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.4rem;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#startBtn {
+    background: #28a745;
+    color: white;
+}
+
+#stopBtn {
+    background: #dc3545;
+    color: white;
+}
+
+#status {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.words {
+    background: #f9f9f9;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    min-height: 250px;
+    padding: 20px;
+    font-size: 1.8rem;
+    line-height: 1.6;
+    overflow-y: auto;
+}
