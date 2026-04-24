@@ -1,0 +1,115 @@
+body{
+    background: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.compass-container{
+    position: relative;
+    text-align: center;
+}
+
+.compass-ring{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: #f5f5f5;
+    position: relative;
+    border: 8px solid #111;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+}
+
+
+.direction{
+    position: absolute;
+    font-size: 28px;
+    font-weight: bold;
+    color: #111;
+}
+
+.n{
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.e{
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+.s{
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.w{
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+}
+
+.compass-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 6px solid #111;
+    box-shadow:  inset 0 0 15px rgba(0, 0, 0, 0.8);
+}
+
+
+.needle{
+    width: 20px;
+    height: 140px;
+    position: relative;
+    transform-origin: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.needle::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-bottom: 7px solid red;
+}
+
+.needle::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-bottom: 70px solid white;
+}
+
+.speed{
+    margin-top: 20px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: 2px;
+}
